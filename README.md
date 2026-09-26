@@ -26,52 +26,52 @@ Collaborating on anything that teaches me something new — happy to be the pers
 
 ## 🛠️ Tools I Reach For
 
-**Languages**
+**Languages**  
 <br>
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**ML & Data**
+**ML & Data**  
 <br>
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=plotly&logoColor=white)
-![RDKit](https://img.shields.io/badge/-RDKit-000000?style=flat-square)
-![PINNs](https://img.shields.io/badge/-PINNs-000000?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![RDKit](https://img.shields.io/badge/RDKit-222222?style=for-the-badge)
+![PINNs](https://img.shields.io/badge/PINNs-6C63FF?style=for-the-badge)
 
-**Frameworks & Tools**
+**Frameworks & Tools**  
 <br>
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat-square&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-000000?style=flat-square&logo=googlecolab&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-**Databases**
+**Databases**  
 <br>
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-000000?style=flat-square&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <br>
 
 ## 📫 Let's Connect
 
-<a href="www.linkedin.com/in/niyajohnsonk" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
+<a href="(https://in.linkedin.com/in/niyajohnsonk)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://niyajohnsonk.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white" />
+<a href="(https://niyajohnsonk.vercel.app/)" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-C8B89A?style=flat-square&logo=aboutdotme&logoColor=3A332A" />" />
 </a>
-
 <br><br>
 
 <sub>*Learning, exploring, and seeing where it takes me — grateful you stopped by.*</sub>
