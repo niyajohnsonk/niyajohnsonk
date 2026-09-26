@@ -12,7 +12,6 @@ I'm currently pursuing my final year of an undergraduate degree in **Computer En
 I'm building on what I already know, exploring new areas, and turning what I learn into projects along the way.
 
 
-<br>
 
 ## 🌱 Currently Learning
 
@@ -22,7 +21,6 @@ Deep learning concepts, and how to turn theory into small working tasks for an o
 
 Collaborating on anything that teaches me something new — happy to be the person on the team who's still learning.
 
-<br>
 
 ## 🛠️ Tools I Reach For
 
@@ -38,7 +36,7 @@ Collaborating on anything that teaches me something new — happy to be the pers
 **ML & Data**  
 <br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -66,14 +64,12 @@ Collaborating on anything that teaches me something new — happy to be the pers
 
 ## 📫 Let's Connect
 
-<a href="(https://in.linkedin.com/in/niyajohnsonk)" target="_blank">
+<a href="https://in.linkedin.com/in/niyajohnsonk" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="(https://niyajohnsonk.vercel.app/)" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-C8B89A?style=flat-square&logo=aboutdotme&logoColor=3A332A" />" />
+<a href="https://niyajohnsonk.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-C8B89A?style=for-the-badge&logo=aboutdotme&logoColor=3A332A" />
 </a>
 <br><br>
 
-<sub>*Learning, exploring, and seeing where it takes me — grateful you stopped by.*</sub>
-
-</div>
+<sub><b>*Learning, exploring, and seeing where it takes me — grateful you stopped by.*</b></sub>
